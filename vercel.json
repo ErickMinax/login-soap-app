@@ -5,22 +5,6 @@
       "destination": "http://4.237.205.85:3000/api/:match*"
     },
     {
-      "source": "/usuarios/:match*",
-      "destination": "http://4.237.205.85:3000/api/Usuarios/:match*"
-    },
-    {
-      "source": "/pagos/:match*",
-      "destination": "http://4.237.205.85:3000/api/Pagos/:match*"
-    },
-    {
-      "source": "/citas/:match*",
-      "destination": "http://4.237.205.85:3000/api/Citas/:match*"
-    },
-    {
-      "source": "/recuperar-clave",
-      "destination": "http://4.237.205.85:3000/api/Usuarios/ObtenerNuevaClave"
-    },
-    {
       "source": "/administrativos/:match*",
       "destination": "http://4.237.205.85:7008/api/Administrativos/:match*"
     }
